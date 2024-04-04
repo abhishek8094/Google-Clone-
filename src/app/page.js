@@ -14,6 +14,8 @@ export default function Home() {
           alt="Google logo"
           width={300}
           height={100}
+
+          style={{width: "auto"}}
         />
 
         <HomeSearch/>
