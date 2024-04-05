@@ -28,6 +28,7 @@ export default function HomeSearch() {
 
     setRandomSearchLoading(false);
   };
+  
   return (
     <>
       <form
