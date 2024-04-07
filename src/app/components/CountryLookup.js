@@ -14,6 +14,7 @@ export default function CountryLookup() {
     if (!response) return;
     setCountry(response);
   };
+  
 
   useEffect(() => {
     getCountry();
